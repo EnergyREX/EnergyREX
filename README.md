@@ -1,29 +1,41 @@
-# Hey there! I'm EnergyREX! 👋
+<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
 
-I'm currently learning about coding, and making my own projects.
+###
 
-See the portfolio where I'm working at!
-> https://github.com/EnergyREX/MyCV <br>
-> https://energyrex.github.io/MyCV/index.html
+<h1 align="left">Hey there! I'm EnergyREX</h1>
 
-Currently I'm perfectioning about web development, on Back and Front side.<br>
-Right now, I know Java, HTML, CSS, JavaScript, Git, Bash, Markdown... <br>
-Also I know some frameworks, as like Bootstrap, jQuery, Node.js, Express.js <br>
-I know about SQL, so I've worked with Oracle DB and MySQL. <br>
-<br>
-You can reach me talking to my Discord, with the username **energyrex**
+###
 
-<!--
-**EnergyREX/EnergyREX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Hello! I'm a guy who is learning to code and wondering what projects to do. While time pases, you will be able to see what projects I've done. Actually I'm getting better my skills. Actually, I'm aiming to become a Front-End developer, but also, I know some Java basics and I'm really interested on lenguages such as Rust.</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Actually, I have not so many projects, but you can see the portfolio where I'm working on.<br><br>In real-time website: https://energyrex.github.io/Portfolio/<br>Repo: https://github.com/EnergyREX/Portfolio</p>
+
+###
+
+<hr> <br>
+
+<p>The technologies that I know right now.</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
