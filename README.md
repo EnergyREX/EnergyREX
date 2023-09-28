@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Actually, I have not so many projects, but you can see the portfolio where I'm working on.<br><br>In real-time website: https://energyrex.github.io/Portfolio/<br>Repo: https://github.com/EnergyREX/Portfolio</p>
+<p align="left">Actually, I have not so many projects, but you can see the portfolio where I'm working on.<br><br>In real-time website: https://energyrex.dev/<br>Repo: https://github.com/EnergyREX/Portfolio</p>
 
 ###
 
