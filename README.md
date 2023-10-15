@@ -1,40 +1,44 @@
-<img align="right" height="300" src="data:image/jpeg;base64,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"  />
-
-###
-
 <h1 align="left">Hey there! I'm EnergyREX</h1>
 
 ###
 
-<p align="left">Hello! I'm a guy who is learning to code and wondering what projects to do. While time pases, you will be able to see what projects I've done. Actually I'm getting better my skills. Actually, I'm aiming to become a Front-End developer, but also, I know some Java basics and I'm really interested on lenguages such as Rust.</p>
-
-###
-
-<p align="left">Actually, I have not so many projects, but you can see the portfolio where I'm working on.<br><br>In real-time website: https://energyrex.dev/<br>Repo: https://github.com/EnergyREX/Portfolio</p>
-
-###
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=energyrex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=energyrex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">Hello! I'm a guy who is learning to code and wondering what projects to do. While time pases, you will be able to see what projects I've done. Actually I'm getting better my skills. Actually, I'm aiming to become a Front-End developer, but also, I know some Java basics and I'm really interested on lenguages such as Rust.<br><br>Actually, I have not so many projects, but you can see the portfolio where I'm working on.<br><br>In real-time website: https://energyrex.dev/<br>Repo: https://github.com/EnergyREX/Portfolio</p>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+###
 
-<hr>
+<h6 align="left">I've made this README with https://profile-readme-generator.com/ go and use it!</h6>
 
-<h6 align="center">I've made this README.md with https://profile-readme-generator.com. Visit it!</h6>
+###
