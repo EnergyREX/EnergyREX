@@ -1,5 +1,7 @@
 <h1 align="left">Hey there! I'm EnergyREX</h1>
 
+###
+
 <p align="left">Hello! I'm a guy who is learning to code and wondering what projects to do. While time pases, you will be able to see what projects I've done. Actually I'm getting better my skills. Actually, I'm aiming to become a Front-End developer, but also, I know some Java basics and I'm really interested on lenguages such as Rust.<br><br>Actually, I have not so many projects, but you can see the portfolio where I'm working on.<br><br>In real-time website: https://energyrex.dev/<br>Repo: https://github.com/EnergyREX/Portfolio</p>
 
 ###
@@ -30,7 +32,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=energyrex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=energyrex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
