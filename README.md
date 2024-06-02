@@ -2,9 +2,8 @@
 
 ###
 
-<p align="left">Hello! I'm a guy who is learning to code and wondering what projects to do. While time pases, you will be able to see what projects I've done. Actually I'm getting better my skills. Actually, I'm aiming to become a Front-End developer, but also, I know some Java basics and I'm really interested on lenguages such as Rust.<br><br>Actually, I have not so many projects, but you can see the portfolio where I'm working on.<br><br>In real-time website: https://energyrex.dev/<br>Repo: https://github.com/EnergyREX/Portfolio</p>
+<p align="left">Hello! I'm a fullstack developer who is growing his skills each day. I know technologies like React.js and Next.js. I love to work on UI and UX, because of that, recently I've learnt GSAP to create better animations on my websites. Now I'm working on a chat application focused on talking with an AI, in this case, the Ollama-chat project.</p>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
