@@ -1,8 +1,8 @@
-<p align="left">Hello World!!</p>
+<h1 align="left">Hello World!!</h1>
 
 ###
 
-<p align="left">Hello! I'm a fullstack developer who is growing his skills each day. I know technologies like React.js and Next.js. I love to work on UI and UX, because of that, recently I've learnt GSAP to create better animations on my websites. Now I'm working on a chat application focused on talking with an AI, in this case, the Ollama-chat project.</p>
+<p align="left">I'm a fullstack developer who is growing his skills each day. I know technologies like React.js and Next.js. I love to work on UI and UX, because of that, recently I've learnt GSAP to create better animations on my websites. Now I'm working on a chat application focused on talking with an AI, in this case, the Ollama-chat project.</p>
 
 ###
 
