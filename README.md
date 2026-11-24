@@ -1,20 +1,21 @@
-<h1 align="left">Hello World!!</h1>
+# Francisco Javier Martín Fernández
 
-###
+**Fullstack Engineer · Node.js, TypeScript, Next.js**
+Backend and architecture are my strong suit. Based in Almería, Spain.
 
-<p align="left">
-My name is Francisco Javier, I'm a fullstack developer based on Spain. I am passionate about new development technologies
-I am completing a Web development degree, while I'm building side projects.
+I build and ship complete products: hexagonal architecture and DDD on
+Node.js (Fastify), PostgreSQL, Redis and queues, with Next.js on the front.
+Over a year on a production e-commerce platform.
 
-Currently, I'm working on the final project of my degree and other projects, the majority are private.
-The final project of the degree is about a clinic management system, and I'm limited on use certain technologies. 
-</p>
+## What I'm working on
+- **OpenATS** – open-source, self-hostable ATS with AI-powered CV parsing
+- **Petete** – booking system and online store for a local business (client work)
+- **fastify-boilerplate** – a starting point for Fastify projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=energyrex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=energyrex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Stack
+**Backend:** Node.js, TypeScript, Fastify, PostgreSQL, Drizzle ORM, Redis, BullMQ
+**Frontend:** Next.js, React, Tailwind CSS
+**Infrastructure:** Docker, Caddy, Linux (VPS)
 
-###
-
-###
+## Contact
+[Portfolio](https://energyrex.dev) · [LinkedIn](https://www.linkedin.com/in/francisco-javier-mf) · fran.j.martin04@gmail.com
